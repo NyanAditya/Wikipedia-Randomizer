@@ -1,2 +1,5 @@
 activity_log.txt
 seen_pages.txt
+build
+dist
+*.spec
